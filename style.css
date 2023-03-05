@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+h1{
+  font-family: 'Arimo', sans-serif;
+}
+
+h2{
+  font-family: 'Arimo', sans-serif;
+  color:black;
+}
+a{
+  font-family: 'Arimo', sans-serif;
+  color:black;
+}
+p{
+  font-family: 'Arimo', sans-serif;
+  color:black;
+}
+img {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
